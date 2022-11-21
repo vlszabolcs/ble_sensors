@@ -1,0 +1,154 @@
+I	15:34:15.649	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B8-48-0F-00
+A	15:34:15.649	"100165.6 Pa" received
+I	15:34:16.099	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B0-48-0F-00
+A	15:34:16.099	"100164.8 Pa" received
+I	15:34:16.683	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A2-48-0F-00
+A	15:34:16.683	"100163.4 Pa" received
+I	15:34:17.223	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B2-48-0F-00
+A	15:34:17.223	"100165.0 Pa" received
+I	15:34:17.718	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BD-48-0F-00
+A	15:34:17.718	"100166.1 Pa" received
+I	15:34:18.213	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) CF-48-0F-00
+A	15:34:18.213	"100167.9 Pa" received
+I	15:34:18.844	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C4-48-0F-00
+A	15:34:18.844	"100166.8 Pa" received
+I	15:34:19.205	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) DC-48-0F-00
+A	15:34:19.205	"100169.2 Pa" received
+I	15:34:19.748	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BE-48-0F-00
+A	15:34:19.748	"100166.2 Pa" received
+I	15:34:20.285	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) D8-48-0F-00
+A	15:34:20.285	"100168.8 Pa" received
+I	15:34:20.825	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 9E-48-0F-00
+A	15:34:20.825	"100163.0 Pa" received
+I	15:34:21.318	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 8F-48-0F-00
+A	15:34:21.318	"100161.5 Pa" received
+I	15:34:21.857	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AC-48-0F-00
+A	15:34:21.857	"100164.4 Pa" received
+I	15:34:22.356	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 9B-48-0F-00
+A	15:34:22.356	"100162.7 Pa" received
+I	15:34:22.894	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B5-48-0F-00
+A	15:34:22.894	"100165.3 Pa" received
+I	15:34:23.388	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 88-48-0F-00
+A	15:34:23.388	"100160.8 Pa" received
+I	15:34:23.971	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B7-48-0F-00
+A	15:34:23.971	"100165.5 Pa" received
+I	15:34:24.424	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B2-48-0F-00
+A	15:34:24.424	"100165.0 Pa" received
+I	15:34:24.962	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B5-48-0F-00
+A	15:34:24.962	"100165.3 Pa" received
+I	15:34:25.459	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BD-48-0F-00
+A	15:34:25.459	"100166.1 Pa" received
+I	15:34:26.085	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) D2-48-0F-00
+A	15:34:26.085	"100168.2 Pa" received
+I	15:34:26.493	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 90-48-0F-00
+A	15:34:26.493	"100161.6 Pa" received
+I	15:34:27.035	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BF-48-0F-00
+A	15:34:27.035	"100166.3 Pa" received
+I	15:34:27.529	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B5-48-0F-00
+A	15:34:27.529	"100165.3 Pa" received
+I	15:34:28.070	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BA-48-0F-00
+A	15:34:28.070	"100165.8 Pa" received
+I	15:34:28.564	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C1-48-0F-00
+A	15:34:28.564	"100166.5 Pa" received
+I	15:34:29.103	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) D2-48-0F-00
+A	15:34:29.103	"100168.2 Pa" received
+I	15:34:29.599	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B0-48-0F-00
+A	15:34:29.599	"100164.8 Pa" received
+I	15:34:30.184	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A2-48-0F-00
+A	15:34:30.184	"100163.4 Pa" received
+I	15:34:30.634	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B7-48-0F-00
+A	15:34:30.634	"100165.5 Pa" received
+I	15:34:31.354	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C3-48-0F-00
+A	15:34:31.354	"100166.7 Pa" received
+I	15:34:31.668	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AA-48-0F-00
+A	15:34:31.668	"100164.2 Pa" received
+I	15:34:32.208	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BA-48-0F-00
+A	15:34:32.208	"100165.8 Pa" received
+I	15:34:32.710	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A2-48-0F-00
+A	15:34:32.710	"100163.4 Pa" received
+I	15:34:33.289	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AD-48-0F-00
+A	15:34:33.289	"100164.5 Pa" received
+I	15:34:33.736	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 99-48-0F-00
+A	15:34:33.736	"100162.5 Pa" received
+I	15:34:34.281	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AA-48-0F-00
+A	15:34:34.281	"100164.2 Pa" received
+I	15:34:34.778	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BC-48-0F-00
+A	15:34:34.778	"100166.0 Pa" received
+I	15:34:35.312	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 94-48-0F-00
+A	15:34:35.312	"100162.0 Pa" received
+I	15:34:35.808	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) DC-48-0F-00
+A	15:34:35.809	"100169.2 Pa" received
+I	15:34:36.395	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 88-48-0F-00
+A	15:34:36.395	"100160.8 Pa" received
+I	15:34:36.981	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A9-48-0F-00
+A	15:34:36.981	"100164.1 Pa" received
+I	15:34:37.382	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 84-48-0F-00
+A	15:34:37.382	"100160.4 Pa" received
+I	15:34:37.877	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B8-48-0F-00
+A	15:34:37.877	"100165.6 Pa" received
+I	15:34:38.418	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C5-48-0F-00
+A	15:34:38.418	"100166.9 Pa" received
+I	15:34:38.913	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B1-48-0F-00
+A	15:34:38.913	"100164.9 Pa" received
+I	15:34:39.450	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B4-48-0F-00
+A	15:34:39.450	"100165.2 Pa" received
+I	15:34:39.949	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A6-48-0F-00
+A	15:34:39.949	"100163.8 Pa" received
+I	15:34:40.489	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B2-48-0F-00
+A	15:34:40.489	"100165.0 Pa" received
+I	15:34:40.983	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B5-48-0F-00
+A	15:34:40.983	"100165.3 Pa" received
+I	15:34:41.524	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C2-48-0F-00
+A	15:34:41.524	"100166.6 Pa" received
+I	15:34:42.241	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B8-48-0F-00
+A	15:34:42.241	"100165.6 Pa" received
+I	15:34:42.555	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A7-48-0F-00
+A	15:34:42.555	"100163.9 Pa" received
+I	15:34:43.049	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B9-48-0F-00
+A	15:34:43.049	"100165.7 Pa" received
+I	15:34:43.589	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BE-48-0F-00
+A	15:34:43.589	"100166.2 Pa" received
+I	15:34:44.087	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B1-48-0F-00
+A	15:34:44.087	"100164.9 Pa" received
+I	15:34:44.673	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A6-48-0F-00
+A	15:34:44.673	"100163.8 Pa" received
+I	15:34:45.132	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AB-48-0F-00
+A	15:34:45.133	"100164.3 Pa" received
+I	15:34:45.662	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 8C-48-0F-00
+A	15:34:45.662	"100161.2 Pa" received
+I	15:34:46.158	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) CB-48-0F-00
+A	15:34:46.158	"100167.5 Pa" received
+I	15:34:46.837	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AC-48-0F-00
+A	15:34:46.837	"100164.4 Pa" received
+I	15:34:47.241	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C2-48-0F-00
+A	15:34:47.241	"100166.6 Pa" received
+I	15:34:47.731	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 8D-48-0F-00
+A	15:34:47.731	"100161.3 Pa" received
+I	15:34:48.413	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 8B-48-0F-00
+A	15:34:48.413	"100161.1 Pa" received
+I	15:34:48.770	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) C2-48-0F-00
+A	15:34:48.770	"100166.6 Pa" received
+I	15:34:49.263	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A5-48-0F-00
+A	15:34:49.263	"100163.7 Pa" received
+I	15:34:49.805	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 8C-48-0F-00
+A	15:34:49.805	"100161.2 Pa" received
+I	15:34:50.301	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B2-48-0F-00
+A	15:34:50.301	"100165.0 Pa" received
+I	15:34:50.837	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B2-48-0F-00
+A	15:34:50.837	"100165.0 Pa" received
+I	15:34:51.333	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B8-48-0F-00
+A	15:34:51.334	"100165.6 Pa" received
+I	15:34:51.966	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A4-48-0F-00
+A	15:34:51.966	"100163.6 Pa" received
+I	15:34:52.370	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) BD-48-0F-00
+A	15:34:52.370	"100166.1 Pa" received
+I	15:34:52.907	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) 9A-48-0F-00
+A	15:34:52.907	"100162.6 Pa" received
+I	15:34:53.407	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) AD-48-0F-00
+A	15:34:53.407	"100164.5 Pa" received
+I	15:34:53.947	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) A6-48-0F-00
+A	15:34:53.947	"100163.8 Pa" received
+I	15:34:54.435	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B0-48-0F-00
+A	15:34:54.435	"100164.8 Pa" received
+I	15:34:55.113	Notification received from 00002a6d-0000-1000-8000-00805f9b34fb, value: (0x) B7-48-0F-00
+A	15:34:55.113	"100165.5 Pa" received
